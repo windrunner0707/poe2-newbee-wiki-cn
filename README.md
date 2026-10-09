@@ -2,7 +2,7 @@
 
 在线阅读：[POE2 中文新手 Wiki](https://windrunner0707.tech/poe2-newbee-wiki-cn/)
 
-从[首页](index.html)进入，按「新手起步 → 开荒奖励 → 装备与交易 → 卡关排查 → 异界路线」阅读。
+从[首页](index.html)进入，按「新手起步 → 工具与 BD → 开荒奖励 → 装备与交易 → 卡关排查 → 异界路线」阅读。
 
 ## 本地更新
 
