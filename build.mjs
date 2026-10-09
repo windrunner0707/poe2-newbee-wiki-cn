@@ -45,7 +45,9 @@ for (const p of pages) {
       return `<img src="${escapeHtml(href)}" alt="${escapeHtml(text)}"${title ? ` title="${escapeHtml(title)}"` : ''} loading="lazy" referrerpolicy="no-referrer">`;
     }
   };
-  const html = new Marked({gfm: true, renderer}).parse(raw)
+  // Marked can misread emphasis boundaries next to Chinese punctuation.
+  const normalized = raw.replace(/\*\*([^*\n]+)\*\*/g, (_, content) => `<strong>${content}</strong>`);
+  const html = new Marked({gfm: true, renderer}).parse(normalized)
     .replaceAll('<td>[ ]</td>', '<td><input type="checkbox" aria-label="完成此项"></td>');
   const toc = headings.map(h => `<a class="toc-${h.depth}" href="#${h.id}">${escapeHtml(h.text)}</a>`).join('');
   const next = pages[pages.indexOf(p) + 1];
