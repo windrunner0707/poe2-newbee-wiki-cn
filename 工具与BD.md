@@ -2,6 +2,8 @@
 
 > 本页是新手的工具入口。**BD（Build）**指技能、天赋、装备和防御方式组成的角色方案。网页上的角色与价格会随联盟和版本变化；使用前先确认站点已切到 **Path of Exile 2**，并核对游戏内描述。
 
+第一次进游戏、还不认识技能和角色面板时，先从[前 60 分钟路线](第一次游玩.md)开始。本页适合已经知道自己在用什么技能、想找一个可执行方案时再看。
+
 ## 先收藏这些入口
 
 | 你要解决的问题 | 入口 | 怎么用 |
@@ -41,6 +43,8 @@
 
 **常见陷阱：**poe.ninja 展示的是被收录角色的配置，并不等于所有玩家都能从一级照搬。高等级角色的伤害、有效生命和装备价格也不能当作你的开荒目标。先找出“这个 BD 靠什么打伤害、靠什么活下来”，再看数字。
 
+**从攻略回到自己的角色：**把参考 BD 拆成“现在必须有”“战役过渡可替代”“异界后再买”三栏。主技能与升华是否已解锁、装备属性要求能否满足，先按[新手起步](新手起步.md)检查；缺装备时按[捡、买、做选择表](装备交易.md#这次升级该捡-买还是做)处理。0.5 版本支持游戏内 `.build` 指南，导入后也应逐项核对当前角色能否使用，不要跳过过渡阶段。
+
 ## 三个实际使用场景
 
 ### 我想玩一个技能，但不知道选什么职业
@@ -67,3 +71,4 @@
 - [poe.ninja：PoE2 Builds 介绍](https://poe.ninja/posts/launching-builds)、[PoE2 经济页说明](https://poe.ninja/posts/poe2-economy-and-rise-of-the-abyssal)：BD 筛选与经济数据来源。
 - [Path of Building 2 官方项目](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2)：PoE2 独立的离线 BD 规划工具。
 - [FilterBlade 介绍](https://www.filterblade.xyz/)、[NeverSink PoE2 过滤器项目](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2)：PoE2 过滤器来源与使用方式。
+- [GGG 官方 0.5.0 更新说明](https://www.pathofexile.com/forum/view-thread/3932540)：游戏内 `.build` 指南与快捷查价功能。

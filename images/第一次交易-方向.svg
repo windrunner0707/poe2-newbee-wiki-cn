@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 450" role="img" aria-labelledby="title desc">
+  <title id="title">通货交易中我有与我要的方向</title>
+  <desc id="desc">示意左侧为我有的通货，右侧为我要的通货，中间检查当前比率，下方核对数量和金币费用。</desc>
+  <rect width="960" height="450" rx="20" fill="#111514"/>
+  <text x="39" y="57" fill="#e8ece5" font-family="sans-serif" font-size="28" font-weight="700">第一次换通货：先认清方向</text>
+  <text x="39" y="86" fill="#a7b3a9" font-family="sans-serif" font-size="16">这是教学示意，示例数量不代表市场价格</text>
+  <rect x="44" y="130" width="300" height="166" rx="13" fill="#202a26" stroke="#dfbd7e" stroke-width="2"/>
+  <rect x="616" y="130" width="300" height="166" rx="13" fill="#202a26" stroke="#b9d788" stroke-width="2"/>
+  <g font-family="sans-serif" text-anchor="middle"><text x="194" y="175" fill="#dfbd7e" font-size="22" font-weight="700">我有 · 支付</text><text x="194" y="225" fill="#e8ece5" font-size="26">通货 A</text><text x="194" y="263" fill="#a7b3a9" font-size="17">示例：放入 10 个</text><text x="766" y="175" fill="#b9d788" font-size="22" font-weight="700">我要 · 收到</text><text x="766" y="225" fill="#e8ece5" font-size="26">通货 B</text><text x="766" y="263" fill="#a7b3a9" font-size="17">示例：显示可收到数量</text></g>
+  <path d="M372 210H587" stroke="#9fb98c" stroke-width="5" stroke-linecap="round"/><path d="m575 194 18 16-18 16" fill="none" stroke="#9fb98c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="480" y="184" text-anchor="middle" fill="#e8ece5" font-family="sans-serif" font-size="17">按当前比率换算</text>
+  <rect x="44" y="330" width="872" height="73" rx="10" fill="#263229" stroke="#536157"/>
+  <text x="480" y="375" text-anchor="middle" fill="#e8ece5" font-family="sans-serif" font-size="19">确认前再看：联盟 · 比率 · 实际数量 · 金币费用</text>
+</svg>

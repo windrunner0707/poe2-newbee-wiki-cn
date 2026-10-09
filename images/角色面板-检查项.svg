@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">角色面板的六类检查项</title>
+  <desc id="desc">示意角色面板的生命能量护盾、魔力、精魂、三属性、防御方式以及火冰闪抗性。</desc>
+  <rect width="960" height="620" rx="20" fill="#111514"/>
+  <text x="40" y="53" fill="#e8ece5" font-family="sans-serif" font-size="28" font-weight="700">角色面板：换装后先看这些</text>
+  <text x="40" y="82" fill="#a7b3a9" font-family="sans-serif" font-size="16">数值仅用于标明位置，不代表推荐目标</text>
+  <rect x="170" y="110" width="620" height="460" rx="12" fill="#202723" stroke="#536157" stroke-width="2"/>
+  <g font-family="sans-serif"><text x="208" y="152" fill="#dfbd7e" font-size="23" font-weight="700">角色属性 · 示例</text><text x="208" y="200" fill="#e8ece5" font-size="18">生命 620</text><text x="510" y="200" fill="#e8ece5" font-size="18">能量护盾 110</text><text x="208" y="251" fill="#e8ece5" font-size="18">魔力 280</text><text x="510" y="251" fill="#e8ece5" font-size="18">精魂 30 / 已预留 20</text><text x="208" y="302" fill="#e8ece5" font-size="18">力量 54</text><text x="385" y="302" fill="#e8ece5" font-size="18">敏捷 42</text><text x="560" y="302" fill="#e8ece5" font-size="18">智慧 38</text><text x="208" y="353" fill="#e8ece5" font-size="18">护甲 360</text><text x="510" y="353" fill="#e8ece5" font-size="18">闪避 240</text><text x="208" y="412" fill="#e8ece5" font-size="18">火焰抗性 48%</text><text x="510" y="412" fill="#e8ece5" font-size="18">冰冷抗性 62%</text><text x="208" y="461" fill="#e8ece5" font-size="18">闪电抗性 35%</text><text x="510" y="461" fill="#e8ece5" font-size="18">混沌抗性 10%</text><text x="208" y="525" fill="#b9d788" font-size="17">换装前后，比较同一组数字。</text></g>
+  <g fill="none" stroke="#536157"><path d="M196 218H764M196 270H764M196 322H764M196 373H764M196 482H764"/></g>
+  <g font-family="sans-serif" font-size="15" font-weight="700" fill="#dfbd7e"><text x="28" y="201">① 生存资源</text><text x="28" y="251">② 魔力与精魂</text><text x="28" y="302">③ 三种属性</text><text x="28" y="353">④ 防御方式</text><text x="28" y="432">⑤ 元素抗性</text><text x="802" y="462">⑥ 混沌抗性</text></g>
+</svg>
