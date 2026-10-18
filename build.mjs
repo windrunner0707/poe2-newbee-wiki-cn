@@ -15,6 +15,8 @@ const pages = [
   { source: '异界.md', output: '异界.html', short: '异界路线', desc: '前十图升级装备，再推进高塔、要塞与刷图机制。', number: '08', track: 'main' },
   { source: '新手做装备.md', output: '新手做装备.html', short: '新手做装备', desc: '从选底材到停手判断，亲手做一件能用的过渡装备。', track: 'reference' },
   { source: '工具与BD.md', output: '工具与BD.html', short: '工具与 BD', desc: '收藏必要外部工具，学会用 poe.ninja 看懂一套 BD。', track: 'reference' },
+  { source: '赛季前期路线.md', output: '赛季前期路线.html', short: '0.5.5 赛季路线', desc: '麻辣胳肢窝的剧情、深渊过渡、航海与炸坟发育经验整理。', track: 'reference' },
+  { source: '异界与大师天赋拿全.md', output: '异界与大师天赋拿全.html', short: '异界与大师天赋拿全', desc: '按 0.5.5 补完要塞，完成多里亚尼、希尔达和贾多的四阶任务。', track: 'reference' },
   { source: '卡关排查.md', output: '卡关排查.html', short: '卡关排查', desc: '打不过、容易死、缺图或没收入时逐项检查。', track: 'reference' },
   { source: '名词与黑话.md', output: '名词与黑话.html', short: '名词与黑话', desc: '查询常用名词、玩家缩写与中英对照。', track: 'reference' },
   { source: '游玩乐趣与避雷.md', output: '游玩乐趣与避雷.html', short: '乐趣与避雷', desc: '给自己设小目标，避开过度投入与旧攻略陷阱。', track: 'reference' },
